@@ -1,4 +1,4 @@
-<!-- <p style="text-align: center;">
+<p style="text-align: center;">
   <a href="https://www.linkedin.com/in/sean-brandenburg" target="_blank" rel="noopener noreferrer">
     <img src="linkedin.svg" alt="Linkedin" />
  </a>
@@ -7,4 +7,4 @@
  </a>
  <br />
 </p>
- -->
+
