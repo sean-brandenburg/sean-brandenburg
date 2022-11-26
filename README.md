@@ -1,3 +1,5 @@
+## 📱 Currently working on Atlas Device Sync @MongoDB
+
 <p style="text-align: center;">
   <a href="https://www.linkedin.com/in/sean-brandenburg" target="_blank" rel="noopener noreferrer">
     <img src="linkedin.svg" alt="Linkedin" />
